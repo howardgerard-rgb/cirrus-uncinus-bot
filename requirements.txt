@@ -1,0 +1,7 @@
+discord.py
+aiohttp
+python-dotenv
+flask
+timezonefinder
+pytz
+APScheduler
